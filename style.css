@@ -215,4 +215,12 @@ footer{
         width: 100%;
     }
 
+    .principal-contenido{
+        width: auto;
+    }
+
+    nav a{
+        font-size: 20px;
+    }
+
 }
