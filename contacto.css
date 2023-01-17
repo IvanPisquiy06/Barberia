@@ -54,6 +54,18 @@ form label, form legend{
     width: 50%;
 }
 
+.horario{
+    width: 30%;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.horario:hover{
+    border-color: #c78c19;
+}
+
 .checkbox{
     margin: 20px 0;
 }
